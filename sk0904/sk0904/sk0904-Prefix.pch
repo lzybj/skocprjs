@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'sk0904' target in the 'sk0904' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
